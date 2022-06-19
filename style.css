@@ -1,0 +1,40 @@
+* {
+    background-color: #242424;
+}
+
+.hamster-img {
+    width: 300px;
+}
+
+.spaghetti-img {
+    width: 400px;
+}
+
+.hamster-img, .spaghetti-img {
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.heading {
+    color: whitesmoke;
+    text-align: center;
+}
+
+div.list-container, p {
+    text-align: center;
+    color: whitesmoke;
+}
+
+ul, ol {
+    display: inline-block;
+    text-align: left;
+    color: whitesmoke;
+}
+
+.recipe-link {
+    text-align: center;
+    display: block;
+    color: aquamarine;
+}
